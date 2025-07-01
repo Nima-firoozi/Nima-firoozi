@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=127B0D&center=true&vCenter=true&width=1000&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Nima firoozi</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&multiline=true&width=635&height=100&lines=👋++Hello!+I'm+Nima+Firoozi+;A+passionate+Front-End+developer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nima-firoozi&label=Profile%20views&color=0e75b6&style=flat" alt="nima-firoozi" /> </p>
 
