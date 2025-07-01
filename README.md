@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=127B0D&center=true&vCenter=true&width=1000&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Nima firoozi</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nima-firoozi&label=Profile%20views&color=0e75b6&style=flat" alt="nima-firoozi" /> </p>
