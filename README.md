@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://www.iiserkol.ac.in/~cds/assets/image/intro_to_comp_programming.jpg" alt="Coding" style="border-radius:10px" width="100%"/>
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=127B0D&center=true&vCenter=true&width=1000&lines=🟢🟢🟢welcome+to+my+GitHub+profile🟢🟢🟢)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=127B0D&center=true&vCenter=true&multiline=true&width=635&height=100&lines=👋++Hello!+I'm+Nima+Firoozi+;A+passionate+Front-End+developer)](https://git.io/typing-svg)
 
