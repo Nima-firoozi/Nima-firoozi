@@ -25,8 +25,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 <div align="center">
-  <img  src="https://github.com/Nima-firoozi/contribution-cal-snake/blob/master/animation/snake.gif"
-       alt="snake" />
+  (https://github.com/Nima-firoozi/Nima-firoozi/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 <p></p>
