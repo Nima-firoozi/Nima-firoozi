@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nima-firoozi/](https://github.com/Nima-firoozi/)
 
-- 📫 How to reach me **Nima.k.firoozi.k@gmail.com**
+- 📫 How to reach me **nima.k.firoozi.k@gmail.com**
 
 <hr>
 
