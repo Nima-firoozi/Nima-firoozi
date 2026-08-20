@@ -18,7 +18,7 @@
 
 ## 🎓 Education
 
-**Bachelor's Degree in Computer Science**
+***Bachelor's Degree in Computer Science***
 University of Science and Culture (USC), Tehran
 
 <hr>
